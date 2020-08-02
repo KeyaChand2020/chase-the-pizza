@@ -1,5 +1,5 @@
 {
-    "name": "Chase the Pizza",
+    "name": "mohamed alawaeya",
     "version": "0.0.1",
     "description": "",
     "dependencies": {
@@ -8,13 +8,15 @@
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
     ],
     "testFiles": [
         "test.ts"
     ],
     "targetVersions": {
-        "target": "1.0.14",
+        "target": "1.0.16",
         "targetId": "arcade"
     },
     "supportedTargets": [
